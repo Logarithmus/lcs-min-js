@@ -1,2 +1,2 @@
-# lcs_min_js
-Longest common substring in JS, minimum source size challenge
+# Longest common substring in JS
+Minimum source code file size challenge
